@@ -1,0 +1,49 @@
+Question 5:
+CarData:
+Starting training at time 14:59:18.314000 with 21 inputs, 4 outputs, [16] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 14:59:51.743000 with training error 0.004654 and weight change 0.000129
+Feed Forward Test correctly classified 1269, incorrectly classified 259, test percent error  0.830497
+
+Starting training at time 14:59:52.009000 with 21 inputs, 4 outputs, [16] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 15:00:28.053000 with training error 0.003529 and weight change 0.000128
+Feed Forward Test correctly classified 1331, incorrectly classified 197, test percent error  0.871073
+
+Starting training at time 15:00:28.313000 with 21 inputs, 4 outputs, [16] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 15:01:02.959000 with training error 0.004215 and weight change 0.000131
+Feed Forward Test correctly classified 1257, incorrectly classified 271, test percent error  0.822644
+
+Starting training at time 15:01:03.234000 with 21 inputs, 4 outputs, [16] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 15:01:30.064000 with training error 0.003942 and weight change 0.000146
+Feed Forward Test correctly classified 1279, incorrectly classified 249, test percent error  0.837042
+
+Starting training at time 15:01:30.271000 with 21 inputs, 4 outputs, [16] hidden layers, size of training set 200, and size of test set 1528
+Finished after 200 iterations at time 15:01:56.133000 with training error 0.004747 and weight change 0.000129
+Feed Forward Test correctly classified 1288, incorrectly classified 240, test percent error  0.842932
+
+Average: 0.840837696335
+Standard Deviation: 0.0165584969643
+Maximum: 0.871073298429
+PenData:
+Starting training at time 15:01:56.340000 with 16 inputs, 10 outputs, [24] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 63 iterations at time 15:10:53.041000 with training error 0.002877 and weight change 0.000080
+Feed Forward Test correctly classified 3162, incorrectly classified 336, test percent error  0.903945
+
+Starting training at time 15:10:53.896000 with 16 inputs, 10 outputs, [24] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 69 iterations at time 15:20:29.670000 with training error 0.002944 and weight change 0.000079
+Feed Forward Test correctly classified 3172, incorrectly classified 326, test percent error  0.906804
+
+Starting training at time 15:20:30.447000 with 16 inputs, 10 outputs, [24] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 80 iterations at time 16:32:56.268000 with training error 0.002587 and weight change 0.000080
+Feed Forward Test correctly classified 3176, incorrectly classified 322, test percent error  0.907947
+
+Starting training at time 16:32:57.002000 with 16 inputs, 10 outputs, [24] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 67 iterations at time 16:42:48.797000 with training error 0.002832 and weight change 0.000080
+Feed Forward Test correctly classified 3167, incorrectly classified 331, test percent error  0.905374
+
+Starting training at time 16:42:49.680000 with 16 inputs, 10 outputs, [24] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 77 iterations at time 16:55:12.745000 with training error 0.002640 and weight change 0.000080
+Feed Forward Test correctly classified 3139, incorrectly classified 359, test percent error  0.897370
+
+Average: 0.904288164666
+Standard Deviation: 0.00371156829437
+Maximum: 0.907947398513
